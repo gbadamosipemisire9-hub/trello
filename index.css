@@ -1496,6 +1496,19 @@ body{
         color: #172b4d;
     }
 
+    .hamburger i {
+    font-size: 24px;
+    color: #172b4d;
+    }
+
+    .nav-links.active {
+    display: flex;
+    }
+
+    .nav-right.active {
+    display: flex;
+    }
+
 }
 
 @media (max-width: 900px) {
