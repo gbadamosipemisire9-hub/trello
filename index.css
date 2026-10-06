@@ -1514,6 +1514,11 @@ body{
 @media (max-width: 900px) {
 
     /* NAVBAR */
+    
+    body{
+        overflow-x: hidden;
+    }
+
     .nav-bar {
         height: 60px;
         padding: 0 20px;
